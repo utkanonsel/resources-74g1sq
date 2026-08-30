@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://utkanonsel.github.io/resources-74g1sq/sitemap.xml
